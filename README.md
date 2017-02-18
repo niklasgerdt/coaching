@@ -34,7 +34,25 @@
 * Drill 10min
 * Go over old homework and give new one
 
-## 3: Developing Young Players
+### 3.3: Drills for U7
+* http://spl.jj-net.fi/pelaajakehitys/lastenvalmennus/getfile.php?file=38
+* http://spl.jj-net.fi/pelaajakehitys/lastenvalmennus/getfile.php?file=44
+* http://spl.jj-net.fi/pelaajakehitys/lastenvalmennus/getfile.php?file=45
+* http://spl.jj-net.fi/pelaajakehitys/lastenvalmennus/getfile.php?file=42
+* http://spl.jj-net.fi/pelaajakehitys/lastenvalmennus/getfile.php?file=43
+* http://spl.jj-net.fi/pelaajakehitys/lastenvalmennus/getfile.php?file=39
+* http://spl.jj-net.fi/pelaajakehitys/lastenvalmennus/getfile.php?file=41
+* http://spl.jj-net.fi/pelaajakehitys/lastenvalmennus/getfile.php?file=40
+* https://www.fortumtutor.fi/materials/jalkapallo/treenivinkit/pienpelit/3v0%20kahteen%20maaliin.pdf
+* https://www.fortumtutor.fi/materials/jalkapallo/treenivinkit/pienpelit/3v1%20nelj%C3%A4%C3%A4n%20maaliin.pdf
+* https://www.fortumtutor.fi/materials/jalkapallo/treenivinkit/syottaminen/3v1%20-pallonhallinta.pdf
+* https://www.fortumtutor.fi/materials/jalkapallo/treenivinkit/syottaminen/3v1%20-pallonhallinta%20palloa%20heitt%C3%A4m%C3%A4ll%C3%A4.pdf
+* https://www.fortumtutor.fi/materials/jalkapallo/treenivinkit/syottaminen/4v1%20-pallonhallinta.pdf
+* https://www.fortumtutor.fi/materials/jalkapallo/treenivinkit/syottaminen/4v2%20-pallonhallinta.pdf
+* https://www.fortumtutor.fi/materials/jalkapallo/treenivinkit/syottaminen/Sy%C3%B6tt%C3%B6kisa%20-%20jatkuva%20polttopallo.pdf
+* https://www.fortumtutor.fi/jalkapallo/valmentajalle/treenivinkit/
+
+## 4: Developing Young Players
 
 #### References:
 * spl.jj-net.fi/pelaajakehitys/splpelaajakehitys
