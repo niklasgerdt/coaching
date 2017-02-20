@@ -9,7 +9,7 @@
 
 ## 2: Playing style
 * Fast, both ways!
-* Try to attack quickly and the keep ball in posession.
+* Try to attack quickly and keep the ball in posession.
 * Try to Win ball back immediately after turnover.
 
 ## 3: Coaching
@@ -53,6 +53,10 @@
 * https://www.fortumtutor.fi/jalkapallo/valmentajalle/treenivinkit/
 
 ## 4: Developing Young Players
+Learning is optimal when the demands of the session matches their intellectual, psychological and motor skills. Avoid too complex games and drills too soon. 
+
+Player remembers only 19% of what she/he was instructed or told. This raises to 32% when explained and demonstrated. In the cases where she/he is able to generate the information (or discovery) on his own, but with the help of a teacher, memorisation raises to *65%!!*. That is why players should actively participate in the coaching and learning process. Learning happens when the coach is able to transfer decisions to players.
+
 
 #### References:
 * spl.jj-net.fi/pelaajakehitys/splpelaajakehitys
