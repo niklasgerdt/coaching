@@ -3,8 +3,8 @@
 * Fun, positive and activates imagination.
 * Lot's of playing.
 * In general try to make each drill as game like as possible.
-* Encourage training football at home.
-* Encourage training other sports.
+* Encourage training football at home. (10 hours a week recommended)
+* Encourage training other sports. (total 20 hours a week recommended)
 * Players thinking is still me and the ball!
 
 ## 2: Playing style
